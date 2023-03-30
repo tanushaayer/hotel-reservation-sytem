@@ -1,0 +1,27 @@
+{
+  "name": "hotel-reservation-sytem",
+  "version": "1.0.0",
+  "description": "A mern for hotel reservation system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanushaayer/hotel-reservation-sytem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanushaayer/hotel-reservation-sytem/issues"
+  },
+  "homepage": "https://github.com/tanushaayer/hotel-reservation-sytem#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
